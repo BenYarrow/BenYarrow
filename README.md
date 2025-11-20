@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @BenYarrow
-- 👀 I'm a junior web developer at Enovate Design.
+
